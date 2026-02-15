@@ -1,1 +1,7 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="Bsh+,$5^Vc_W+:|v+67i" x="0" y="0"></block><block type="device_forever" id="hO88sEq$Aizpq/n2w%CG" x="349" y="0"><statement name="HANDLER"><block type="device_print_message" id="Y|y;^M#{#HCk^(CZn9%X"><value name="text"><shadow type="text" id="W-IZcdI#Y:=gD0**x72?"><field name="TEXT">Hello World</field></shadow></value></block></statement></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="Bsh+,$5^Vc_W+:|v+67i" x="-3" y="6"><statement name="HANDLER"><block type="device_print_message" id="Y|y;^M#{#HCk^(CZn9%X"><value name="text"><shadow type="text" id="W-IZcdI#Y:=gD0**x72?"><field name="TEXT">Zbigniew Wolanski</field></shadow></value></block></statement></block><block type="device_show_leds" id="xnSF=ly/!`M2Zo0RqQCe" disabled-reasons="pxt_automatic_disabled" x="-3" y="152"><field name="LEDS">`
+        # # # # # 
+        # . . . # 
+        # . # . # 
+        # . . . # 
+        # # # # #
+        `</field><next><block type="basic_show_icon" id="DF,e9L^8u{lNd`,8k)w;" disabled-reasons="pxt_automatic_disabled"><field name="i">IconNames.LeftTriangle</field><next><block type="device_print_message" id="yi-3t34%[Wp{u1gU]V*}" disabled-reasons="pxt_automatic_disabled"><value name="text"><shadow type="text" id="p!%aIgouJE]=C%+/~fy3" disabled-reasons="pxt_automatic_disabled"><field name="TEXT">Zajecia numer 1</field></shadow></value><next><block type="device_clear_display" id="I7`R:_s|lehxfgqw*HYp" disabled-reasons="pxt_automatic_disabled"></block></next></block></next></block></next></block><block type="device_forever" id="hO88sEq$Aizpq/n2w%CG" x="6" y="580"></block></xml>

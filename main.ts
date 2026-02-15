@@ -1,3 +1,4 @@
+basic.showString("Zbigniew Wolanski")
 basic.forever(function () {
-    basic.showString("Hello World")
+	
 })
